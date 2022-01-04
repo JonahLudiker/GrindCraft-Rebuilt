@@ -14,5 +14,152 @@
   "version": "0.0.1",
   "author": "murkyyy and friends",
   "name": "GrindCraft: Rebuilt",
-  "files": []
+  "files": [
+    {
+      "projectID": 60089,
+      "fileID": 3202662,
+      "required": true,
+      "__meta": {
+        "name": "Mouse Tweaks",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 232131,
+      "fileID": 3330403,
+      "required": true,
+      "__meta": {
+        "name": "Default Options",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 237307,
+      "fileID": 3540310,
+      "required": true,
+      "__meta": {
+        "name": "Cosmetic Armor Reworked",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 238222,
+      "fileID": 3590083,
+      "required": true,
+      "__meta": {
+        "name": "Just Enough Items (JEI)",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 240630,
+      "fileID": 3545538,
+      "required": true,
+      "__meta": {
+        "name": "Just Enough Resources (JER)",
+        "explicit": true,
+        "dependencies": [
+          238222
+        ]
+      }
+    },
+    {
+      "projectID": 248787,
+      "fileID": 3512372,
+      "required": true,
+      "__meta": {
+        "name": "AppleSkin",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 250363,
+      "fileID": 3326041,
+      "required": true,
+      "__meta": {
+        "name": "AutoRegLib",
+        "explicit": false,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 250577,
+      "fileID": 3190372,
+      "required": true,
+      "__meta": {
+        "name": "Akashic Tome",
+        "explicit": true,
+        "dependencies": [
+          250363
+        ]
+      }
+    },
+    {
+      "projectID": 264353,
+      "fileID": 3103028,
+      "required": true,
+      "__meta": {
+        "name": "SwingThroughGrass",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 267602,
+      "fileID": 3137659,
+      "required": true,
+      "__meta": {
+        "name": "ConnectedTexturesMod",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 271740,
+      "fileID": 3556882,
+      "required": true,
+      "__meta": {
+        "name": "Toast Control",
+        "explicit": true,
+        "dependencies": [
+          283644
+        ]
+      }
+    },
+    {
+      "projectID": 272515,
+      "fileID": 3404330,
+      "required": true,
+      "__meta": {
+        "name": "Better Advancements",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 283644,
+      "fileID": 3536806,
+      "required": true,
+      "__meta": {
+        "name": "Placebo",
+        "explicit": false,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 306770,
+      "fileID": 3459118,
+      "required": true,
+      "__meta": {
+        "name": "Patchouli",
+        "explicit": true,
+        "dependencies": []
+      }
+    }
+  ]
 }
