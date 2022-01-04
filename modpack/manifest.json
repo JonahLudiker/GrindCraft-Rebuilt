@@ -16,11 +16,105 @@
   "name": "GrindCraft: Rebuilt",
   "files": [
     {
+      "projectID": 60028,
+      "fileID": 3454318,
+      "required": true,
+      "__meta": {
+        "name": "Aquaculture 2",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
       "projectID": 60089,
       "fileID": 3202662,
       "required": true,
       "__meta": {
         "name": "Mouse Tweaks",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 74072,
+      "fileID": 3576393,
+      "required": true,
+      "__meta": {
+        "name": "Tinkers Construct",
+        "explicit": true,
+        "dependencies": [
+          74924
+        ]
+      }
+    },
+    {
+      "projectID": 74924,
+      "fileID": 3576386,
+      "required": true,
+      "__meta": {
+        "name": "Mantle",
+        "explicit": false,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 222789,
+      "fileID": 3039955,
+      "required": true,
+      "__meta": {
+        "name": "Sound Filters",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 223794,
+      "fileID": 3590406,
+      "required": true,
+      "__meta": {
+        "name": "Applied Energistics 2",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 228525,
+      "fileID": 3474499,
+      "required": true,
+      "__meta": {
+        "name": "Bookshelf",
+        "explicit": false,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 229060,
+      "fileID": 3548417,
+      "required": true,
+      "__meta": {
+        "name": "iChunUtil",
+        "explicit": false,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 229073,
+      "fileID": 3548423,
+      "required": true,
+      "__meta": {
+        "name": "Hats",
+        "explicit": true,
+        "dependencies": [
+          229060
+        ]
+      }
+    },
+    {
+      "projectID": 231275,
+      "fileID": 3222705,
+      "required": true,
+      "__meta": {
+        "name": "Ding",
         "explicit": true,
         "dependencies": []
       }
@@ -76,11 +170,34 @@
       }
     },
     {
+      "projectID": 238086,
+      "fileID": 3584819,
+      "required": true,
+      "__meta": {
+        "name": "KubeJS (Forge)",
+        "explicit": true,
+        "dependencies": [
+          419699,
+          416294
+        ]
+      }
+    },
+    {
       "projectID": 238222,
       "fileID": 3590083,
       "required": true,
       "__meta": {
         "name": "Just Enough Items (JEI)",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 238891,
+      "fileID": 3502320,
+      "required": true,
+      "__meta": {
+        "name": "Dynamic Surroundings",
         "explicit": true,
         "dependencies": []
       }
@@ -106,6 +223,18 @@
         "explicit": true,
         "dependencies": [
           238222
+        ]
+      }
+    },
+    {
+      "projectID": 243121,
+      "fileID": 3538744,
+      "required": true,
+      "__meta": {
+        "name": "Quark",
+        "explicit": true,
+        "dependencies": [
+          250363
         ]
       }
     },
@@ -172,6 +301,16 @@
       }
     },
     {
+      "projectID": 258914,
+      "fileID": 3116235,
+      "required": true,
+      "__meta": {
+        "name": "The Weirding Gadget",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
       "projectID": 261251,
       "fileID": 3430455,
       "required": true,
@@ -189,6 +328,18 @@
         "name": "ConnectedTexturesMod",
         "explicit": true,
         "dependencies": []
+      }
+    },
+    {
+      "projectID": 268655,
+      "fileID": 3480161,
+      "required": true,
+      "__meta": {
+        "name": "Game Stages",
+        "explicit": true,
+        "dependencies": [
+          228525
+        ]
       }
     },
     {
@@ -244,6 +395,18 @@
       }
     },
     {
+      "projectID": 291509,
+      "fileID": 3154938,
+      "required": true,
+      "__meta": {
+        "name": "The Endergetic Expansion",
+        "explicit": true,
+        "dependencies": [
+          382216
+        ]
+      }
+    },
+    {
       "projectID": 300331,
       "fileID": 3564151,
       "required": true,
@@ -269,6 +432,38 @@
       "required": true,
       "__meta": {
         "name": "FTB Backups (Forge)",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 344787,
+      "fileID": 3320406,
+      "required": true,
+      "__meta": {
+        "name": "XP Tome",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 355458,
+      "fileID": 3561118,
+      "required": true,
+      "__meta": {
+        "name": "Buzzier Bees",
+        "explicit": true,
+        "dependencies": [
+          382216
+        ]
+      }
+    },
+    {
+      "projectID": 361276,
+      "fileID": 3582870,
+      "required": true,
+      "__meta": {
+        "name": "Lootr",
         "explicit": true,
         "dependencies": []
       }
@@ -309,6 +504,38 @@
       "required": true,
       "__meta": {
         "name": "Crash Utilities",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 381736,
+      "fileID": 3560051,
+      "required": true,
+      "__meta": {
+        "name": "Savage & Ravage",
+        "explicit": true,
+        "dependencies": [
+          382216
+        ]
+      }
+    },
+    {
+      "projectID": 382216,
+      "fileID": 3457851,
+      "required": true,
+      "__meta": {
+        "name": "Blueprint",
+        "explicit": false,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 388800,
+      "fileID": 3587712,
+      "required": true,
+      "__meta": {
+        "name": "Polymorph (Forge)",
         "explicit": true,
         "dependencies": []
       }
@@ -399,6 +626,28 @@
         "dependencies": [
           404465
         ]
+      }
+    },
+    {
+      "projectID": 415974,
+      "fileID": 3549549,
+      "required": true,
+      "__meta": {
+        "name": "Personality",
+        "explicit": true,
+        "dependencies": [
+          382216
+        ]
+      }
+    },
+    {
+      "projectID": 416294,
+      "fileID": 3525704,
+      "required": true,
+      "__meta": {
+        "name": "Rhino",
+        "explicit": false,
+        "dependencies": []
       }
     },
     {
