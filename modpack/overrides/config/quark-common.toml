@@ -117,7 +117,7 @@
 	Rope = false
 	"Shallow Dirt" = true
 	Shingles = true
-	"Soul Sandstone" = true
+	"Soul Sandstone" = false
 	"Stained Planks" = true
 	Stools = true
 	"Sturdy Stone" = true
@@ -125,19 +125,19 @@
 	Thatch = true
 	"Tie Leads To Fences" = true
 	Turf = true
-	"Variant Bookshelves" = true
-	"Variant Chests" = true
-	"Variant Ladders" = true
-	"Vertical Planks" = true
-	"Vertical Slabs" = true
+	"Variant Bookshelves" = false
+	"Variant Chests" = false
+	"Variant Ladders" = false
+	"Vertical Planks" = false
+	"Vertical Slabs" = false
 	"Wooden Posts" = true
 
 	[building.celebratory_lamps]
-		"Light Level" = 15
+		"Light Level" = 12
 
 	[building.cobblestone_bricks]
 		"Enable Blackstone Bricks" = true
-		"Enable Dirt Bricks" = true
+		"Enable Dirt Bricks" = false
 		"Enable Netherrack Bricks" = true
 		"Enable Basalt Bricks" = true
 
@@ -171,7 +171,7 @@
 		"Enable Bonded Rabbit Hide" = true
 
 	[building.gold_bars]
-		"Generate In Nether Fortress" = true
+		"Generate In Nether Fortress" = false
 
 	[building.item_frames]
 		"Glass Item Frames Update Maps" = true
@@ -179,13 +179,13 @@
 	[building.more_brick_types]
 		"Enable Sandy Bricks" = true
 		"Enable Snow Bricks" = true
-		"Enable Magma Bricks" = true
+		"Enable Magma Bricks" = false
 		"Enable Charred Nether Bricks" = true
 		"Enable Blackstone Variant Bricks" = true
 		#This also comes with a utility recipe for Red Nether Bricks
-		"Enable Blue Nether Bricks" = true
+		"Enable Blue Nether Bricks" = false
 		#This also includes Red Sandstone Bricks and Soul Sandstone Bricks
-		"Enable Sandstone Bricks" = true
+		"Enable Sandstone Bricks" = false
 
 	[building.more_stone_variants]
 		"Enable Bricks" = true
@@ -270,7 +270,7 @@
 		"Loot Quality" = 1
 
 	[tools.ambient_discs]
-		"Drop On Spider Kill" = true
+		"Drop On Spider Kill" = false
 
 	[tools.ancient_tomes]
 		#Set to 0 to not generate in Dungeons
@@ -355,7 +355,7 @@
 		"Trowel Max Durability" = 0
 
 [tweaks]
-	"Skull Pikes" = true
+	"Skull Pikes" = false
 	"Armed Armor Stands" = true
 	"Automatic Recipe Unlock" = true
 	"Axe Leaf Harvesting" = true
@@ -365,7 +365,7 @@
 	"Dirt To Path" = true
 	"Double Door Opening" = true
 	"Dragon Scales" = true
-	Emotes = true
+	Emotes = false
 	"Enhanced Ladders" = true
 	"Glass Shard" = false
 	"Hoe Harvesting" = true
@@ -383,7 +383,7 @@
 	"Simple Harvest" = true
 	"Snow Golem Player Heads" = false
 	"Springy Slime" = false
-	"Utility Recipes" = true
+	"Utility Recipes" = false
 	"Villagers Follow Emeralds" = true
 
 	[tweaks.skull_pikes]
@@ -505,26 +505,26 @@
 	"Cave Roots" = true
 	"Chorus Vegetation" = true
 	Crevices = false
-	Deepslate = true
+	Deepslate = false
 	"Fairy Rings" = true
-	"Mega Caves" = true
+	"Mega Caves" = false
 	"Monster Box" = false
-	"Nether Obsidian Spikes" = true
+	"Nether Obsidian Spikes" = false
 	"New Stone Types" = true
 	"Realistic World Gen" = false
 	Speleothems = true
 	"Spiral Spires" = true
 	"Underground Clay" = true
-	"Brimstone Underground Biome" = true
-	"Cave Crystal Underground Biome" = true
-	"Elder Prismarine Underground Biome" = true
-	"Glowshroom Underground Biome" = true
-	"Lush Underground Biome" = true
-	"Overgrown Underground Biome" = true
-	"Permafrost Underground Biome" = true
-	"Sandstone Underground Biome" = true
+	"Brimstone Underground Biome" = false
+	"Cave Crystal Underground Biome" = false
+	"Elder Prismarine Underground Biome" = false
+	"Glowshroom Underground Biome" = false
+	"Lush Underground Biome" = false
+	"Overgrown Underground Biome" = false
+	"Permafrost Underground Biome" = false
+	"Sandstone Underground Biome" = false
 	"Slime Underground Biome" = false
-	"Spider Nest Underground Biome" = true
+	"Spider Nest Underground Biome" = false
 
 	[world.big_dungeon]
 		#The chance that a big dungeon spawn candidate will be allowed to spawn. 0.2 is 20%, which is the same as the Pillager Outpost.
@@ -2041,7 +2041,7 @@
 	"Narrator Readout" = false
 	"Overlay Shader" = false
 	Pallet = false
-	Shiba = false
+	Shiba = true
 
 	[experimental.adjustable_chat]
 		"Horizontal Shift" = 0
