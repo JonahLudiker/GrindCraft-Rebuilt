@@ -118,8 +118,8 @@
 	"Shallow Dirt" = true
 	Shingles = true
 	"Soul Sandstone" = false
-	"Stained Planks" = true
-	Stools = true
+	"Stained Planks" = false
+	Stools = false
 	"Sturdy Stone" = true
 	"Tallow And Candles" = true
 	Thatch = true
