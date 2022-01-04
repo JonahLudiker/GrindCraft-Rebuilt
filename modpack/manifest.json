@@ -1,0 +1,18 @@
+{
+  "minecraft": {
+    "version": "1.16.5",
+    "modLoaders": [
+      {
+        "id": "forge-36.2.20",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "overrides": "overrides",
+  "manifestVersion": 1,
+  "version": "0.0.1",
+  "author": "murkyyy and friends",
+  "name": "GrindCraft: Rebuilt",
+  "files": []
+}
