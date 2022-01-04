@@ -36,11 +36,41 @@
       }
     },
     {
+      "projectID": 233019,
+      "fileID": 3533942,
+      "required": true,
+      "__meta": {
+        "name": "AI Improvements",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 235577,
+      "fileID": 3098221,
+      "required": true,
+      "__meta": {
+        "name": "TrashSlot",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
       "projectID": 237307,
       "fileID": 3540310,
       "required": true,
       "__meta": {
         "name": "Cosmetic Armor Reworked",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 237701,
+      "fileID": 3105779,
+      "required": true,
+      "__meta": {
+        "name": "ReAuth",
         "explicit": true,
         "dependencies": []
       }
@@ -53,6 +83,18 @@
         "name": "Just Enough Items (JEI)",
         "explicit": true,
         "dependencies": []
+      }
+    },
+    {
+      "projectID": 239197,
+      "fileID": 3590768,
+      "required": true,
+      "__meta": {
+        "name": "CraftTweaker",
+        "explicit": true,
+        "dependencies": [
+          368718
+        ]
       }
     },
     {
@@ -88,6 +130,16 @@
       }
     },
     {
+      "projectID": 250398,
+      "fileID": 3531453,
+      "required": true,
+      "__meta": {
+        "name": "Controlling",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
       "projectID": 250577,
       "fileID": 3190372,
       "required": true,
@@ -100,11 +152,31 @@
       }
     },
     {
-      "projectID": 264353,
-      "fileID": 3103028,
+      "projectID": 251407,
+      "fileID": 3222131,
       "required": true,
       "__meta": {
-        "name": "SwingThroughGrass",
+        "name": "Client Tweaks",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 256717,
+      "fileID": 3481298,
+      "required": true,
+      "__meta": {
+        "name": "Clumps",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 261251,
+      "fileID": 3430455,
+      "required": true,
+      "__meta": {
+        "name": "Bad Wither No Cookie - Reloaded",
         "explicit": true,
         "dependencies": []
       }
@@ -142,12 +214,42 @@
       }
     },
     {
+      "projectID": 280510,
+      "fileID": 3348562,
+      "required": true,
+      "__meta": {
+        "name": "AttributeFix",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
       "projectID": 283644,
       "fileID": 3536806,
       "required": true,
       "__meta": {
         "name": "Placebo",
         "explicit": false,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 285612,
+      "fileID": 3211323,
+      "required": true,
+      "__meta": {
+        "name": "RandomPatches (Forge)",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 300331,
+      "fileID": 3564151,
+      "required": true,
+      "__meta": {
+        "name": "Simply Light",
+        "explicit": true,
         "dependencies": []
       }
     },
@@ -159,6 +261,300 @@
         "name": "Patchouli",
         "explicit": true,
         "dependencies": []
+      }
+    },
+    {
+      "projectID": 314904,
+      "fileID": 3482306,
+      "required": true,
+      "__meta": {
+        "name": "FTB Backups (Forge)",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 361579,
+      "fileID": 3337641,
+      "required": true,
+      "__meta": {
+        "name": "spark",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 366140,
+      "fileID": 3358883,
+      "required": true,
+      "__meta": {
+        "name": "Dynamic View[Forge/Fabric]",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 368718,
+      "fileID": 3584024,
+      "required": true,
+      "__meta": {
+        "name": "JEITweaker",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 371813,
+      "fileID": 3584716,
+      "required": true,
+      "__meta": {
+        "name": "Crash Utilities",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 389989,
+      "fileID": 3091598,
+      "required": true,
+      "__meta": {
+        "name": "Fast Furnace minus Replacement",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 392748,
+      "fileID": 3151372,
+      "required": true,
+      "__meta": {
+        "name": "JEI Enchantment Info",
+        "explicit": true,
+        "dependencies": [
+          238222
+        ]
+      }
+    },
+    {
+      "projectID": 392805,
+      "fileID": 3061943,
+      "required": true,
+      "__meta": {
+        "name": "CleanCut",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 394185,
+      "fileID": 3276056,
+      "required": true,
+      "__meta": {
+        "name": "FastWorkbench Minus Replacement",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 399022,
+      "fileID": 3161147,
+      "required": true,
+      "__meta": {
+        "name": "Spawner Bug Fix",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 403499,
+      "fileID": 3163628,
+      "required": true,
+      "__meta": {
+        "name": "JEI Professions",
+        "explicit": true,
+        "dependencies": [
+          238222
+        ]
+      }
+    },
+    {
+      "projectID": 404465,
+      "fileID": 3553840,
+      "required": true,
+      "__meta": {
+        "name": "FTB Library (Forge)",
+        "explicit": false,
+        "dependencies": [
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 410811,
+      "fileID": 3510643,
+      "required": true,
+      "__meta": {
+        "name": "FTB Essentials (Forge)",
+        "explicit": true,
+        "dependencies": [
+          404465
+        ]
+      }
+    },
+    {
+      "projectID": 419699,
+      "fileID": 3587404,
+      "required": true,
+      "__meta": {
+        "name": "Architectury API (Forge)",
+        "explicit": false,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 429235,
+      "fileID": 3485636,
+      "required": true,
+      "__meta": {
+        "name": "FerriteCore (Forge)",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 436964,
+      "fileID": 3196072,
+      "required": true,
+      "__meta": {
+        "name": "Babel",
+        "explicit": false,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 437558,
+      "fileID": 3172880,
+      "required": true,
+      "__meta": {
+        "name": "Just Enough Piglin Bartering",
+        "explicit": true,
+        "dependencies": [
+          436964
+        ]
+      }
+    },
+    {
+      "projectID": 446253,
+      "fileID": 3421281,
+      "required": true,
+      "__meta": {
+        "name": "Better Biome Blend",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 448233,
+      "fileID": 3358824,
+      "required": true,
+      "__meta": {
+        "name": "Entity Culling Fabric/Forge",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 459701,
+      "fileID": 3529457,
+      "required": true,
+      "__meta": {
+        "name": "Catalogue",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 529754,
+      "fileID": 3565489,
+      "required": true,
+      "__meta": {
+        "name": "RoadRunner",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 532286,
+      "fileID": 3541185,
+      "required": true,
+      "__meta": {
+        "name": "Just Enough Effect Descriptions (JEED)",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 532724,
+      "fileID": 3526076,
+      "required": true,
+      "__meta": {
+        "name": "Magnesium",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 533801,
+      "fileID": 3496027,
+      "required": true,
+      "__meta": {
+        "name": "Sulfuric",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 549394,
+      "fileID": 3534475,
+      "required": true,
+      "__meta": {
+        "name": "Krypton Reforged",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 551736,
+      "fileID": 3574974,
+      "required": true,
+      "__meta": {
+        "name": "Magnesium Dynamic Lights",
+        "explicit": true,
+        "dependencies": [
+          532724
+        ]
+      }
+    },
+    {
+      "projectID": 551894,
+      "fileID": 3575635,
+      "required": true,
+      "__meta": {
+        "name": "Better Compatibility Checker",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 558905,
+      "fileID": 3592543,
+      "required": true,
+      "__meta": {
+        "name": "Magnesium Extras",
+        "explicit": true,
+        "dependencies": [
+          532724
+        ]
       }
     }
   ]
