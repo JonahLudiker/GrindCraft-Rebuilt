@@ -489,6 +489,18 @@
       }
     },
     {
+      "projectID": 367706,
+      "fileID": 3593215,
+      "required": true,
+      "__meta": {
+        "name": "FancyMenu [Forge]",
+        "explicit": true,
+        "dependencies": [
+          410295
+        ]
+      }
+    },
+    {
       "projectID": 368718,
       "fileID": 3584024,
       "required": true,
@@ -617,6 +629,16 @@
       }
     },
     {
+      "projectID": 410295,
+      "fileID": 3593195,
+      "required": true,
+      "__meta": {
+        "name": "Konkrete [Forge]",
+        "explicit": false,
+        "dependencies": []
+      }
+    },
+    {
       "projectID": 410811,
       "fileID": 3510643,
       "required": true,
@@ -720,6 +742,18 @@
         "name": "Catalogue",
         "explicit": true,
         "dependencies": []
+      }
+    },
+    {
+      "projectID": 511770,
+      "fileID": 3556830,
+      "required": true,
+      "__meta": {
+        "name": "Drippy Loading Screen [Forge]",
+        "explicit": true,
+        "dependencies": [
+          410295
+        ]
       }
     },
     {
