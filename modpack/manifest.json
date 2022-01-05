@@ -385,8 +385,7 @@
       "required": true,
       "__meta": {
         "name": "Kotlin for Forge",
-        "explicit": false,
-        "dependencies": []
+        "explicit": false
       }
     },
     {
@@ -395,7 +394,6 @@
       "required": true,
       "__meta": {
         "name": "CraftDumper",
-        "explicit": true,
         "dependencies": [
           351264
         ]
@@ -442,7 +440,6 @@
       "required": true,
       "__meta": {
         "name": "FancyMenu [Forge]",
-        "explicit": true,
         "dependencies": [
           410295
         ]
@@ -564,8 +561,7 @@
       "required": true,
       "__meta": {
         "name": "Konkrete [Forge]",
-        "explicit": false,
-        "dependencies": []
+        "explicit": false
       }
     },
     {
@@ -653,6 +649,14 @@
       }
     },
     {
+      "projectID": 457570,
+      "fileID": 3546348,
+      "required": true,
+      "__meta": {
+        "name": "Configured"
+      }
+    },
+    {
       "projectID": 459701,
       "fileID": 3529457,
       "required": true,
@@ -661,23 +665,22 @@
       }
     },
     {
-      "projectID": 521480,
-      "fileID": 3456514,
-      "required": true,
-      "__meta": {
-        "name": "Skin Layers 3D (Fabric/Forge)"
-      }
-    },
-    {
       "projectID": 511770,
       "fileID": 3556830,
       "required": true,
       "__meta": {
         "name": "Drippy Loading Screen [Forge]",
-        "explicit": true,
         "dependencies": [
           410295
         ]
+      }
+    },
+    {
+      "projectID": 521480,
+      "fileID": 3456514,
+      "required": true,
+      "__meta": {
+        "name": "Skin Layers 3D (Fabric/Forge)"
       }
     },
     {
