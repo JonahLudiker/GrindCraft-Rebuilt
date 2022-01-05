@@ -231,17 +231,6 @@
       }
     },
     {
-      "projectID": 250577,
-      "fileID": 3190372,
-      "required": true,
-      "__meta": {
-        "name": "Akashic Tome",
-        "dependencies": [
-          250363
-        ]
-      }
-    },
-    {
       "projectID": 251407,
       "fileID": 3222131,
       "required": true,
@@ -426,6 +415,14 @@
       }
     },
     {
+      "projectID": 354339,
+      "fileID": 3199872,
+      "required": true,
+      "__meta": {
+        "name": "Open Loader"
+      }
+    },
+    {
       "projectID": 355458,
       "fileID": 3561118,
       "required": true,
@@ -513,6 +510,14 @@
       "required": true,
       "__meta": {
         "name": "Polymorph (Forge)"
+      }
+    },
+    {
+      "projectID": 389697,
+      "fileID": 3416699,
+      "required": true,
+      "__meta": {
+        "name": "Builders Crafts & Additions (Forge)"
       }
     },
     {
