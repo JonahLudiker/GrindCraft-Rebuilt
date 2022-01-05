@@ -20,9 +20,7 @@
       "fileID": 3454318,
       "required": true,
       "__meta": {
-        "name": "Aquaculture 2",
-        "explicit": true,
-        "dependencies": []
+        "name": "Aquaculture 2"
       }
     },
     {
@@ -30,9 +28,7 @@
       "fileID": 3202662,
       "required": true,
       "__meta": {
-        "name": "Mouse Tweaks",
-        "explicit": true,
-        "dependencies": []
+        "name": "Mouse Tweaks"
       }
     },
     {
@@ -41,7 +37,6 @@
       "required": true,
       "__meta": {
         "name": "Tinkers Construct",
-        "explicit": true,
         "dependencies": [
           74924
         ]
@@ -53,8 +48,7 @@
       "required": true,
       "__meta": {
         "name": "Mantle",
-        "explicit": false,
-        "dependencies": []
+        "explicit": false
       }
     },
     {
@@ -62,9 +56,7 @@
       "fileID": 3039955,
       "required": true,
       "__meta": {
-        "name": "Sound Filters",
-        "explicit": true,
-        "dependencies": []
+        "name": "Sound Filters"
       }
     },
     {
@@ -72,9 +64,7 @@
       "fileID": 3590406,
       "required": true,
       "__meta": {
-        "name": "Applied Energistics 2",
-        "explicit": true,
-        "dependencies": []
+        "name": "Applied Energistics 2"
       }
     },
     {
@@ -83,8 +73,7 @@
       "required": true,
       "__meta": {
         "name": "Bookshelf",
-        "explicit": false,
-        "dependencies": []
+        "explicit": false
       }
     },
     {
@@ -93,8 +82,7 @@
       "required": true,
       "__meta": {
         "name": "iChunUtil",
-        "explicit": false,
-        "dependencies": []
+        "explicit": false
       }
     },
     {
@@ -103,7 +91,6 @@
       "required": true,
       "__meta": {
         "name": "Hats",
-        "explicit": true,
         "dependencies": [
           229060
         ]
@@ -114,9 +101,7 @@
       "fileID": 3222705,
       "required": true,
       "__meta": {
-        "name": "Ding",
-        "explicit": true,
-        "dependencies": []
+        "name": "Ding"
       }
     },
     {
@@ -124,9 +109,7 @@
       "fileID": 3330403,
       "required": true,
       "__meta": {
-        "name": "Default Options",
-        "explicit": true,
-        "dependencies": []
+        "name": "Default Options"
       }
     },
     {
@@ -134,9 +117,7 @@
       "fileID": 3533942,
       "required": true,
       "__meta": {
-        "name": "AI Improvements",
-        "explicit": true,
-        "dependencies": []
+        "name": "AI Improvements"
       }
     },
     {
@@ -144,9 +125,7 @@
       "fileID": 3098221,
       "required": true,
       "__meta": {
-        "name": "TrashSlot",
-        "explicit": true,
-        "dependencies": []
+        "name": "TrashSlot"
       }
     },
     {
@@ -154,9 +133,7 @@
       "fileID": 3540310,
       "required": true,
       "__meta": {
-        "name": "Cosmetic Armor Reworked",
-        "explicit": true,
-        "dependencies": []
+        "name": "Cosmetic Armor Reworked"
       }
     },
     {
@@ -164,9 +141,7 @@
       "fileID": 3105779,
       "required": true,
       "__meta": {
-        "name": "ReAuth",
-        "explicit": true,
-        "dependencies": []
+        "name": "ReAuth"
       }
     },
     {
@@ -175,7 +150,6 @@
       "required": true,
       "__meta": {
         "name": "KubeJS (Forge)",
-        "explicit": true,
         "dependencies": [
           419699,
           416294
@@ -187,9 +161,7 @@
       "fileID": 3590083,
       "required": true,
       "__meta": {
-        "name": "Just Enough Items (JEI)",
-        "explicit": true,
-        "dependencies": []
+        "name": "Just Enough Items (JEI)"
       }
     },
     {
@@ -197,9 +169,7 @@
       "fileID": 3502320,
       "required": true,
       "__meta": {
-        "name": "Dynamic Surroundings",
-        "explicit": true,
-        "dependencies": []
+        "name": "Dynamic Surroundings"
       }
     },
     {
@@ -208,7 +178,6 @@
       "required": true,
       "__meta": {
         "name": "CraftTweaker",
-        "explicit": true,
         "dependencies": [
           368718
         ]
@@ -220,7 +189,6 @@
       "required": true,
       "__meta": {
         "name": "Just Enough Resources (JER)",
-        "explicit": true,
         "dependencies": [
           238222
         ]
@@ -232,7 +200,6 @@
       "required": true,
       "__meta": {
         "name": "Quark",
-        "explicit": true,
         "dependencies": [
           250363
         ]
@@ -243,9 +210,7 @@
       "fileID": 3512372,
       "required": true,
       "__meta": {
-        "name": "AppleSkin",
-        "explicit": true,
-        "dependencies": []
+        "name": "AppleSkin"
       }
     },
     {
@@ -254,8 +219,7 @@
       "required": true,
       "__meta": {
         "name": "AutoRegLib",
-        "explicit": false,
-        "dependencies": []
+        "explicit": false
       }
     },
     {
@@ -263,9 +227,7 @@
       "fileID": 3531453,
       "required": true,
       "__meta": {
-        "name": "Controlling",
-        "explicit": true,
-        "dependencies": []
+        "name": "Controlling"
       }
     },
     {
@@ -274,7 +236,6 @@
       "required": true,
       "__meta": {
         "name": "Akashic Tome",
-        "explicit": true,
         "dependencies": [
           250363
         ]
@@ -285,9 +246,7 @@
       "fileID": 3222131,
       "required": true,
       "__meta": {
-        "name": "Client Tweaks",
-        "explicit": true,
-        "dependencies": []
+        "name": "Client Tweaks"
       }
     },
     {
@@ -295,9 +254,7 @@
       "fileID": 3481298,
       "required": true,
       "__meta": {
-        "name": "Clumps",
-        "explicit": true,
-        "dependencies": []
+        "name": "Clumps"
       }
     },
     {
@@ -305,9 +262,7 @@
       "fileID": 3116235,
       "required": true,
       "__meta": {
-        "name": "The Weirding Gadget",
-        "explicit": true,
-        "dependencies": []
+        "name": "The Weirding Gadget"
       }
     },
     {
@@ -315,9 +270,7 @@
       "fileID": 3430455,
       "required": true,
       "__meta": {
-        "name": "Bad Wither No Cookie - Reloaded",
-        "explicit": true,
-        "dependencies": []
+        "name": "Bad Wither No Cookie - Reloaded"
       }
     },
     {
@@ -325,9 +278,7 @@
       "fileID": 3137659,
       "required": true,
       "__meta": {
-        "name": "ConnectedTexturesMod",
-        "explicit": true,
-        "dependencies": []
+        "name": "ConnectedTexturesMod"
       }
     },
     {
@@ -336,7 +287,6 @@
       "required": true,
       "__meta": {
         "name": "Game Stages",
-        "explicit": true,
         "dependencies": [
           228525
         ]
@@ -348,7 +298,6 @@
       "required": true,
       "__meta": {
         "name": "Toast Control",
-        "explicit": true,
         "dependencies": [
           283644
         ]
@@ -359,9 +308,7 @@
       "fileID": 3404330,
       "required": true,
       "__meta": {
-        "name": "Better Advancements",
-        "explicit": true,
-        "dependencies": []
+        "name": "Better Advancements"
       }
     },
     {
@@ -369,9 +316,7 @@
       "fileID": 3348562,
       "required": true,
       "__meta": {
-        "name": "AttributeFix",
-        "explicit": true,
-        "dependencies": []
+        "name": "AttributeFix"
       }
     },
     {
@@ -380,8 +325,7 @@
       "required": true,
       "__meta": {
         "name": "Placebo",
-        "explicit": false,
-        "dependencies": []
+        "explicit": false
       }
     },
     {
@@ -389,9 +333,7 @@
       "fileID": 3211323,
       "required": true,
       "__meta": {
-        "name": "RandomPatches (Forge)",
-        "explicit": true,
-        "dependencies": []
+        "name": "RandomPatches (Forge)"
       }
     },
     {
@@ -400,7 +342,6 @@
       "required": true,
       "__meta": {
         "name": "The Endergetic Expansion",
-        "explicit": true,
         "dependencies": [
           382216
         ]
@@ -411,9 +352,7 @@
       "fileID": 3564151,
       "required": true,
       "__meta": {
-        "name": "Simply Light",
-        "explicit": true,
-        "dependencies": []
+        "name": "Simply Light"
       }
     },
     {
@@ -421,9 +360,7 @@
       "fileID": 3459118,
       "required": true,
       "__meta": {
-        "name": "Patchouli",
-        "explicit": true,
-        "dependencies": []
+        "name": "Patchouli"
       }
     },
     {
@@ -431,9 +368,7 @@
       "fileID": 3482306,
       "required": true,
       "__meta": {
-        "name": "FTB Backups (Forge)",
-        "explicit": true,
-        "dependencies": []
+        "name": "FTB Backups (Forge)"
       }
     },
     {
@@ -441,9 +376,7 @@
       "fileID": 3320406,
       "required": true,
       "__meta": {
-        "name": "XP Tome",
-        "explicit": true,
-        "dependencies": []
+        "name": "XP Tome"
       }
     },
     {
@@ -452,7 +385,6 @@
       "required": true,
       "__meta": {
         "name": "Buzzier Bees",
-        "explicit": true,
         "dependencies": [
           382216
         ]
@@ -463,9 +395,7 @@
       "fileID": 3582870,
       "required": true,
       "__meta": {
-        "name": "Lootr",
-        "explicit": true,
-        "dependencies": []
+        "name": "Lootr"
       }
     },
     {
@@ -473,9 +403,7 @@
       "fileID": 3337641,
       "required": true,
       "__meta": {
-        "name": "spark",
-        "explicit": true,
-        "dependencies": []
+        "name": "spark"
       }
     },
     {
@@ -483,9 +411,7 @@
       "fileID": 3358883,
       "required": true,
       "__meta": {
-        "name": "Dynamic View[Forge/Fabric]",
-        "explicit": true,
-        "dependencies": []
+        "name": "Dynamic View[Forge/Fabric]"
       }
     },
     {
@@ -505,9 +431,7 @@
       "fileID": 3584024,
       "required": true,
       "__meta": {
-        "name": "JEITweaker",
-        "explicit": true,
-        "dependencies": []
+        "name": "JEITweaker"
       }
     },
     {
@@ -515,9 +439,7 @@
       "fileID": 3584716,
       "required": true,
       "__meta": {
-        "name": "Crash Utilities",
-        "explicit": true,
-        "dependencies": []
+        "name": "Crash Utilities"
       }
     },
     {
@@ -526,7 +448,6 @@
       "required": true,
       "__meta": {
         "name": "Savage & Ravage",
-        "explicit": true,
         "dependencies": [
           382216
         ]
@@ -538,8 +459,7 @@
       "required": true,
       "__meta": {
         "name": "Blueprint",
-        "explicit": false,
-        "dependencies": []
+        "explicit": false
       }
     },
     {
@@ -547,9 +467,7 @@
       "fileID": 3587712,
       "required": true,
       "__meta": {
-        "name": "Polymorph (Forge)",
-        "explicit": true,
-        "dependencies": []
+        "name": "Polymorph (Forge)"
       }
     },
     {
@@ -557,9 +475,7 @@
       "fileID": 3091598,
       "required": true,
       "__meta": {
-        "name": "Fast Furnace minus Replacement",
-        "explicit": true,
-        "dependencies": []
+        "name": "Fast Furnace minus Replacement"
       }
     },
     {
@@ -568,7 +484,6 @@
       "required": true,
       "__meta": {
         "name": "JEI Enchantment Info",
-        "explicit": true,
         "dependencies": [
           238222
         ]
@@ -579,9 +494,7 @@
       "fileID": 3061943,
       "required": true,
       "__meta": {
-        "name": "CleanCut",
-        "explicit": true,
-        "dependencies": []
+        "name": "CleanCut"
       }
     },
     {
@@ -589,9 +502,7 @@
       "fileID": 3276056,
       "required": true,
       "__meta": {
-        "name": "FastWorkbench Minus Replacement",
-        "explicit": true,
-        "dependencies": []
+        "name": "FastWorkbench Minus Replacement"
       }
     },
     {
@@ -599,9 +510,7 @@
       "fileID": 3161147,
       "required": true,
       "__meta": {
-        "name": "Spawner Bug Fix",
-        "explicit": true,
-        "dependencies": []
+        "name": "Spawner Bug Fix"
       }
     },
     {
@@ -610,7 +519,6 @@
       "required": true,
       "__meta": {
         "name": "JEI Professions",
-        "explicit": true,
         "dependencies": [
           238222
         ]
@@ -644,7 +552,6 @@
       "required": true,
       "__meta": {
         "name": "FTB Essentials (Forge)",
-        "explicit": true,
         "dependencies": [
           404465
         ]
@@ -656,7 +563,6 @@
       "required": true,
       "__meta": {
         "name": "Personality",
-        "explicit": true,
         "dependencies": [
           382216
         ]
@@ -668,8 +574,7 @@
       "required": true,
       "__meta": {
         "name": "Rhino",
-        "explicit": false,
-        "dependencies": []
+        "explicit": false
       }
     },
     {
@@ -678,8 +583,7 @@
       "required": true,
       "__meta": {
         "name": "Architectury API (Forge)",
-        "explicit": false,
-        "dependencies": []
+        "explicit": false
       }
     },
     {
@@ -687,9 +591,7 @@
       "fileID": 3485636,
       "required": true,
       "__meta": {
-        "name": "FerriteCore (Forge)",
-        "explicit": true,
-        "dependencies": []
+        "name": "FerriteCore (Forge)"
       }
     },
     {
@@ -698,8 +600,7 @@
       "required": true,
       "__meta": {
         "name": "Babel",
-        "explicit": false,
-        "dependencies": []
+        "explicit": false
       }
     },
     {
@@ -708,7 +609,6 @@
       "required": true,
       "__meta": {
         "name": "Just Enough Piglin Bartering",
-        "explicit": true,
         "dependencies": [
           436964
         ]
@@ -719,9 +619,7 @@
       "fileID": 3421281,
       "required": true,
       "__meta": {
-        "name": "Better Biome Blend",
-        "explicit": true,
-        "dependencies": []
+        "name": "Better Biome Blend"
       }
     },
     {
@@ -729,9 +627,7 @@
       "fileID": 3358824,
       "required": true,
       "__meta": {
-        "name": "Entity Culling Fabric/Forge",
-        "explicit": true,
-        "dependencies": []
+        "name": "Entity Culling Fabric/Forge"
       }
     },
     {
@@ -739,9 +635,15 @@
       "fileID": 3529457,
       "required": true,
       "__meta": {
-        "name": "Catalogue",
-        "explicit": true,
-        "dependencies": []
+        "name": "Catalogue"
+      }
+    },
+    {
+      "projectID": 521480,
+      "fileID": 3456514,
+      "required": true,
+      "__meta": {
+        "name": "Skin Layers 3D (Fabric/Forge)"
       }
     },
     {
@@ -761,9 +663,7 @@
       "fileID": 3565489,
       "required": true,
       "__meta": {
-        "name": "RoadRunner",
-        "explicit": true,
-        "dependencies": []
+        "name": "RoadRunner"
       }
     },
     {
@@ -771,9 +671,7 @@
       "fileID": 3541185,
       "required": true,
       "__meta": {
-        "name": "Just Enough Effect Descriptions (JEED)",
-        "explicit": true,
-        "dependencies": []
+        "name": "Just Enough Effect Descriptions (JEED)"
       }
     },
     {
@@ -781,9 +679,7 @@
       "fileID": 3526076,
       "required": true,
       "__meta": {
-        "name": "Magnesium",
-        "explicit": true,
-        "dependencies": []
+        "name": "Magnesium"
       }
     },
     {
@@ -791,9 +687,7 @@
       "fileID": 3496027,
       "required": true,
       "__meta": {
-        "name": "Sulfuric",
-        "explicit": true,
-        "dependencies": []
+        "name": "Sulfuric"
       }
     },
     {
@@ -801,9 +695,7 @@
       "fileID": 3534475,
       "required": true,
       "__meta": {
-        "name": "Krypton Reforged",
-        "explicit": true,
-        "dependencies": []
+        "name": "Krypton Reforged"
       }
     },
     {
@@ -812,7 +704,6 @@
       "required": true,
       "__meta": {
         "name": "Magnesium Dynamic Lights",
-        "explicit": true,
         "dependencies": [
           532724
         ]
@@ -823,9 +714,7 @@
       "fileID": 3575635,
       "required": true,
       "__meta": {
-        "name": "Better Compatibility Checker",
-        "explicit": true,
-        "dependencies": []
+        "name": "Better Compatibility Checker"
       }
     },
     {
@@ -834,7 +723,6 @@
       "required": true,
       "__meta": {
         "name": "Magnesium Extras",
-        "explicit": true,
         "dependencies": [
           532724
         ]
