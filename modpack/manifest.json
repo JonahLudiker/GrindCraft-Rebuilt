@@ -447,6 +447,28 @@
       }
     },
     {
+      "projectID": 351264,
+      "fileID": 3527736,
+      "required": true,
+      "__meta": {
+        "name": "Kotlin for Forge",
+        "explicit": false,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 354281,
+      "fileID": 3419519,
+      "required": true,
+      "__meta": {
+        "name": "CraftDumper",
+        "explicit": true,
+        "dependencies": [
+          351264
+        ]
+      }
+    },
+    {
       "projectID": 355458,
       "fileID": 3561118,
       "required": true,
