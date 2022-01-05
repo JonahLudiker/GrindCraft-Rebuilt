@@ -337,6 +337,20 @@
       }
     },
     {
+      "projectID": 289412,
+      "fileID": 3575814,
+      "required": true,
+      "__meta": {
+        "name": "FTB Quests (Forge)",
+        "dependencies": [
+          419699,
+          309674,
+          404468,
+          404465
+        ]
+      }
+    },
+    {
       "projectID": 291509,
       "fileID": 3154938,
       "required": true,
@@ -361,6 +375,18 @@
       "required": true,
       "__meta": {
         "name": "Patchouli"
+      }
+    },
+    {
+      "projectID": 309674,
+      "fileID": 3376819,
+      "required": true,
+      "__meta": {
+        "name": "Item Filters (Forge)",
+        "explicit": false,
+        "dependencies": [
+          419699
+        ]
       }
     },
     {
@@ -549,6 +575,18 @@
       "required": true,
       "__meta": {
         "name": "FTB Library (Forge)",
+        "explicit": false,
+        "dependencies": [
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 404468,
+      "fileID": 3535953,
+      "required": true,
+      "__meta": {
+        "name": "FTB Teams (Forge)",
         "explicit": false,
         "dependencies": [
           419699
