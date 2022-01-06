@@ -387,6 +387,17 @@
       }
     },
     {
+      "projectID": 328085,
+      "fileID": 3536025,
+      "required": true,
+      "__meta": {
+        "name": "Create",
+        "dependencies": [
+          486392
+        ]
+      }
+    },
+    {
       "projectID": 344787,
       "fileID": 3320406,
       "required": true,
@@ -656,6 +667,18 @@
       }
     },
     {
+      "projectID": 429371,
+      "fileID": 3584608,
+      "required": true,
+      "__meta": {
+        "name": "KubeJS Create",
+        "dependencies": [
+          238086,
+          328085
+        ]
+      }
+    },
+    {
       "projectID": 436964,
       "fileID": 3196072,
       "required": true,
@@ -705,6 +728,15 @@
       "required": true,
       "__meta": {
         "name": "Catalogue"
+      }
+    },
+    {
+      "projectID": 486392,
+      "fileID": 3535459,
+      "required": true,
+      "__meta": {
+        "name": "Flywheel",
+        "explicit": false
       }
     },
     {
