@@ -293,6 +293,18 @@
       }
     },
     {
+      "projectID": 269398,
+      "fileID": 3348601,
+      "required": true,
+      "__meta": {
+        "name": "Dimension Stages",
+        "dependencies": [
+          268655,
+          239197
+        ]
+      }
+    },
+    {
       "projectID": 271740,
       "fileID": 3556882,
       "required": true,
@@ -309,6 +321,17 @@
       "required": true,
       "__meta": {
         "name": "Better Advancements"
+      }
+    },
+    {
+      "projectID": 280316,
+      "fileID": 3482955,
+      "required": true,
+      "__meta": {
+        "name": "Item Stages",
+        "dependencies": [
+          268655
+        ]
       }
     },
     {
