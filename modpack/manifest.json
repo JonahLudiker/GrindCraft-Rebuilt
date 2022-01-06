@@ -231,17 +231,6 @@
       }
     },
     {
-      "projectID": 250577,
-      "fileID": 3190372,
-      "required": true,
-      "__meta": {
-        "name": "Akashic Tome",
-        "dependencies": [
-          250363
-        ]
-      }
-    },
-    {
       "projectID": 251407,
       "fileID": 3222131,
       "required": true,
@@ -421,6 +410,17 @@
       }
     },
     {
+      "projectID": 328085,
+      "fileID": 3536025,
+      "required": true,
+      "__meta": {
+        "name": "Create",
+        "dependencies": [
+          486392
+        ]
+      }
+    },
+    {
       "projectID": 344787,
       "fileID": 3320406,
       "required": true,
@@ -446,6 +446,14 @@
         "dependencies": [
           351264
         ]
+      }
+    },
+    {
+      "projectID": 354339,
+      "fileID": 3199872,
+      "required": true,
+      "__meta": {
+        "name": "Open Loader"
       }
     },
     {
@@ -536,6 +544,14 @@
       "required": true,
       "__meta": {
         "name": "Polymorph (Forge)"
+      }
+    },
+    {
+      "projectID": 389697,
+      "fileID": 3416699,
+      "required": true,
+      "__meta": {
+        "name": "Builders Crafts & Additions (Forge)"
       }
     },
     {
@@ -674,6 +690,18 @@
       }
     },
     {
+      "projectID": 429371,
+      "fileID": 3584608,
+      "required": true,
+      "__meta": {
+        "name": "KubeJS Create",
+        "dependencies": [
+          238086,
+          328085
+        ]
+      }
+    },
+    {
       "projectID": 436964,
       "fileID": 3196072,
       "required": true,
@@ -723,6 +751,15 @@
       "required": true,
       "__meta": {
         "name": "Catalogue"
+      }
+    },
+    {
+      "projectID": 486392,
+      "fileID": 3535459,
+      "required": true,
+      "__meta": {
+        "name": "Flywheel",
+        "explicit": false
       }
     },
     {
