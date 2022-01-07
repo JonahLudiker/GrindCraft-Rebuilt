@@ -796,6 +796,14 @@
         "dependencies": []
       }
     },
+    {  
+      "projectID": 534502,
+      "fileID": 3495963,
+      "required": true,
+      "__meta": {
+        "name": "Load My Resources [Forge]"
+      }
+    },
     {
       "projectID": 549394,
       "fileID": 3534475,
