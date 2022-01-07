@@ -1,0 +1,19 @@
+{
+	id: "4B63F66EA0F0BDC4"
+	group: "10B03A9DF07B820A"
+	order_index: 0
+	filename: "guide"
+	title: "Guide"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: 0.0d
+		y: -4.5d
+		id: "49F62653440DD14B"
+		tasks: [{
+			id: "362F37CA0DE4F7BF"
+			type: "gamestage"
+			stage: "0"
+		}]
+	}]
+}

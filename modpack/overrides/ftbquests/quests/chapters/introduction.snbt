@@ -1,0 +1,105 @@
+{
+	id: "1D9B90929D0F2200"
+	group: ""
+	order_index: 0
+	filename: "introduction"
+	title: "Introduction"
+	icon: {
+		id: "patchouli:guide_book"
+		Count: 1b
+		tag: {
+			"patchouli:book": "patchouli:gcrebuilt-guidebook"
+		}
+	}
+	subtitle: ["Getting Started"]
+	default_quest_shape: "rsquare"
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			icon: "ftbquests:book"
+			x: 24.5d
+			y: 4.0d
+			shape: "rsquare"
+			subtitle: "Please read the information in the introduction completely"
+			description: [
+				"This is a short introduction to grindcraft, and will explain the basics of playing."
+				""
+				"To complete this quest, click the checkbox. Once you have finished the quest, collect your reward by clicking the reward box."
+			]
+			id: "77363208DCE21A89"
+			tasks: [{
+				id: "795D7F49348A51E4"
+				type: "checkmark"
+				title: "Hi! Welcome to GrindCraft: Rebuilt"
+			}]
+			rewards: [{
+				id: "67549D96F837D02C"
+				type: "item"
+				item: {
+					id: "patchouli:guide_book"
+					Count: 1b
+					tag: {
+						"patchouli:book": "patchouli:gcrebuilt-guidebook"
+					}
+				}
+			}]
+		}
+		{
+			icon: {
+				id: "patchouli:guide_book"
+				Count: 1b
+				tag: {
+					"patchouli:book": "patchouli:gcrebuilt-guidebook"
+				}
+			}
+			x: 24.5d
+			y: 5.5d
+			shape: "rsquare"
+			description: [
+				"The GrindCraft: Manual is your go to source for information regarding the pack."
+				""
+				"The manual will outline the per-stage available content, changes, and requirements."
+				""
+				"As you progress in the pack, more sections of the manual will be unlocked so you can progress even farther."
+				""
+				"When you feel comfortable navigating the manual, please tick the checkbox and collect your reward."
+			]
+			dependencies: ["77363208DCE21A89"]
+			hide: false
+			dependency_requirement: "one_completed"
+			id: "4B1C268D8002728D"
+			tasks: [{
+				id: "28F0C1E269CF9B5E"
+				type: "checkmark"
+				title: "The Grindcraft Manual"
+			}]
+		}
+		{
+			icon: "minecraft:cake"
+			x: 24.5d
+			y: 7.0d
+			description: ["From everyone that worked so hard on this pack: thanks for playing!"]
+			dependencies: ["4B1C268D8002728D"]
+			id: "3622D5867BC6B938"
+			tasks: [{
+				id: "7EDB358B81CB161F"
+				type: "checkmark"
+				title: "Thanks for playing!"
+			}]
+			rewards: [
+				{
+					id: "6D51667A37518AA8"
+					type: "item"
+					item: "minecraft:cookie"
+					count: 16
+				}
+				{
+					id: "4836CAD5D0C96842"
+					type: "gamestage"
+					auto: "invisible"
+					stage: "0"
+				}
+			]
+		}
+	]
+}

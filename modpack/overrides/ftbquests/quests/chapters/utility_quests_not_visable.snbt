@@ -1,0 +1,27 @@
+{
+	id: "40EC7DFE9BCA2431"
+	group: ""
+	order_index: 1
+	filename: "utility_quests_not_visable"
+	title: "Utility Quests NOT VISIBLE TO PLAYERS"
+	always_invisible: true
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: -10.0d
+		y: -12.5d
+		dependencies: ["4B1C268D8002728D"]
+		id: "57E3A430DAE67161"
+		tasks: [{
+			id: "5BFFCC006EEEFC28"
+			type: "item"
+			item: {
+				id: "patchouli:guide_book"
+				Count: 1b
+				tag: {
+					"patchouli:book": "patchouli:gcrebuilt-guidebook"
+				}
+			}
+		}]
+	}]
+}

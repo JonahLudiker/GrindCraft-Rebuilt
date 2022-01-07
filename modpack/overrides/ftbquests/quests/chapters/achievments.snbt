@@ -1,0 +1,21 @@
+{
+	id: "72CCF1A69638FDE7"
+	group: "10B03A9DF07B820A"
+	order_index: 1
+	filename: "achievments"
+	title: "Advancements"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		disable_toast: true
+		x: 0.0d
+		y: -8.5d
+		shape: "circle"
+		id: "28144526EEE38C75"
+		tasks: [{
+			id: "6E6DCDF47167288E"
+			type: "gamestage"
+			stage: "0"
+		}]
+	}]
+}
