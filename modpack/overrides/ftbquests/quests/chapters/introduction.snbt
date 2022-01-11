@@ -94,8 +94,9 @@
 					count: 16
 				}
 				{
-					id: "4836CAD5D0C96842"
+					id: "6214C92D4F628219"
 					type: "gamestage"
+					title: "stage 0"
 					auto: "invisible"
 					stage: "0"
 				}

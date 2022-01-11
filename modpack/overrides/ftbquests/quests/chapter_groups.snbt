@@ -1,3 +1,6 @@
 {
-	chapter_groups: [{ id: "10B03A9DF07B820A", title: "Stage Zero" }]
+	chapter_groups: [
+		{ id: "449E1D920F97B1FF", title: "Advancements" }
+		{ id: "5C0607098DB65E0B", title: "Mod Guides" }
+	]
 }
