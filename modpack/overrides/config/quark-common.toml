@@ -121,7 +121,7 @@
 	"Stained Planks" = false
 	Stools = false
 	"Sturdy Stone" = true
-	"Tallow And Candles" = true
+	"Tallow And Candles" = false
 	Thatch = true
 	"Tie Leads To Fences" = true
 	Turf = true

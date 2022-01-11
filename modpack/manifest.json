@@ -413,6 +413,15 @@
       }
     },
     {
+      "projectID": 309927,
+      "fileID": 3598943,
+      "required": true,
+      "__meta": {
+        "name": "Curios API (Forge)",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 314904,
       "fileID": 3482306,
       "required": true,
@@ -550,6 +559,15 @@
       }
     },
     {
+      "projectID": 388172,
+      "fileID": 3601135,
+      "required": true,
+      "__meta": {
+        "name": "GeckoLib",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 388800,
       "fileID": 3587712,
       "required": true,
@@ -606,6 +624,19 @@
       "required": true,
       "__meta": {
         "name": "Spawner Bug Fix"
+      }
+    },
+    {
+      "projectID": 401955,
+      "fileID": 3598702,
+      "required": true,
+      "__meta": {
+        "name": "Ars Nouveau",
+        "dependencies": [
+          388172,
+          309927,
+          306770
+        ]
       }
     },
     {
