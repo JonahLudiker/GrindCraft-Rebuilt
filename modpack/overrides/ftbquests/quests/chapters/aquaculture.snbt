@@ -1,0 +1,321 @@
+{
+	id: "0DB2C1E45A7FC3B3"
+	group: "5C0607098DB65E0B"
+	order_index: 1
+	filename: "aquaculture"
+	title: "Aquaculture"
+	icon: {
+		id: "aquaculture:iron_fishing_rod"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 3.0d
+			y: -3.5d
+			subtitle: "If fishing is so great why isn't there a fishing 2?"
+			description: ["Aquaculture expands and enhances your fishing experience."]
+			dependencies: ["7B33A923ACF32AD4"]
+			id: "645D7B72C61BEFC3"
+			tasks: [{
+				id: "4F273DE19AFDBC79"
+				type: "checkmark"
+				title: "Fishing 2"
+			}]
+		}
+		{
+			x: 2.5d
+			y: -1.5d
+			description: ["Despite the name, aquaculture iron is actually made out of zinc, go figure."]
+			dependencies: ["645D7B72C61BEFC3"]
+			id: "131F53BC7359DB41"
+			tasks: [{
+				id: "3E1F0633B9811E73"
+				type: "item"
+				item: {
+					id: "aquaculture:iron_fishing_rod"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: 0.5d
+			description: ["The tacklebox lets you change and modify your fishing rod."]
+			dependencies: [
+				"131F53BC7359DB41"
+				"56A8410DE55F0F62"
+			]
+			dependency_requirement: "one_completed"
+			id: "19E9AA13DD4D1E87"
+			tasks: [{
+				id: "1F18727873931BB6"
+				type: "item"
+				item: "aquaculture:tackle_box"
+			}]
+		}
+		{
+			title: "Dyeable bobber"
+			x: -1.0d
+			y: -0.5d
+			dependencies: ["694F79238CD16ECC"]
+			id: "2A6758E1F2209648"
+			tasks: [{
+				id: "0A1F9DD9A8175255"
+				type: "item"
+				item: "aquaculture:bobber"
+			}]
+		}
+		{
+			x: 7.0d
+			y: -0.5d
+			dependencies: ["24C698F5FD164588"]
+			id: "63FC8D76F8C13130"
+			tasks: [{
+				id: "03CB4BDEC44D92BB"
+				type: "item"
+				item: "aquaculture:worm_farm"
+			}]
+		}
+		{
+			x: 5.0d
+			y: -0.5d
+			dependencies: ["19E9AA13DD4D1E87"]
+			id: "24C698F5FD164588"
+			tasks: [{
+				id: "2EE10A1AC7F0DC88"
+				type: "item"
+				item: {
+					id: "aquaculture:worm"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "Dyeable fishing line"
+			x: 1.0d
+			y: -0.5d
+			dependencies: ["19E9AA13DD4D1E87"]
+			id: "694F79238CD16ECC"
+			tasks: [{
+				id: "5932A96F05BFE51F"
+				type: "item"
+				item: "aquaculture:fishing_line"
+			}]
+		}
+		{
+			x: 3.5d
+			y: -1.5d
+			dependencies: ["645D7B72C61BEFC3"]
+			id: "56A8410DE55F0F62"
+			tasks: [{
+				id: "139E9902609F517B"
+				type: "item"
+				item: {
+					id: "aquaculture:iron_fillet_knife"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 9.5d
+			y: 0.5d
+			dependencies: ["19E9AA13DD4D1E87"]
+			id: "0532F8E69C0DD3C3"
+			tasks: [{
+				id: "00C6ECE81A2F7DCD"
+				type: "item"
+				item: "aquaculture:iron_hook"
+			}]
+		}
+		{
+			x: 11.0d
+			y: 0.5d
+			dependencies: ["0532F8E69C0DD3C3"]
+			id: "1E05E9FA7C69AADE"
+			tasks: [{
+				id: "1D72F6ABB6A9CDF3"
+				type: "item"
+				item: "aquaculture:gold_hook"
+			}]
+		}
+		{
+			x: 8.4d
+			y: -0.5000000000000001d
+			dependencies: ["0532F8E69C0DD3C3"]
+			id: "3B4440974610DCC5"
+			tasks: [{
+				id: "31AE72DE75676B52"
+				type: "item"
+				item: "aquaculture:heavy_hook"
+			}]
+		}
+		{
+			x: 9.5d
+			y: -1.0d
+			dependencies: ["0532F8E69C0DD3C3"]
+			id: "6F02F3325142879F"
+			tasks: [{
+				id: "7964783EA8F8EDB4"
+				type: "item"
+				item: "aquaculture:light_hook"
+			}]
+		}
+		{
+			x: 8.4d
+			y: 1.4d
+			dependencies: ["0532F8E69C0DD3C3"]
+			id: "19F4E5BCCB3B1C41"
+			tasks: [{
+				id: "0D7FC4531B669110"
+				type: "item"
+				item: "aquaculture:double_hook"
+			}]
+		}
+		{
+			x: 10.5d
+			y: -0.5d
+			dependencies: ["0532F8E69C0DD3C3"]
+			id: "13709D92C31CCB0E"
+			tasks: [{
+				id: "400457396F440984"
+				type: "item"
+				item: "aquaculture:note_hook"
+			}]
+		}
+		{
+			x: 9.5d
+			y: 2.0d
+			dependencies: ["0532F8E69C0DD3C3"]
+			id: "123C031DEAB702E8"
+			tasks: [{
+				id: "1E51758E7B596283"
+				type: "item"
+				item: "aquaculture:redstone_hook"
+			}]
+		}
+		{
+			x: 10.5d
+			y: 1.5d
+			dependencies: ["0532F8E69C0DD3C3"]
+			id: "63A54DFB1A3ABC0B"
+			tasks: [{
+				id: "7ED42BF341F0D9EF"
+				type: "item"
+				item: "aquaculture:nether_star_hook"
+			}]
+		}
+		{
+			x: -2.5d
+			y: 0.5d
+			dependencies: ["19E9AA13DD4D1E87"]
+			id: "1DDAFA4F975A0848"
+			tasks: [{
+				id: "72D7274E1626D888"
+				type: "item"
+				item: "aquaculture:algae"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -0.5d
+			dependencies: ["1DDAFA4F975A0848"]
+			id: "2017BE891F56D1E3"
+			tasks: [{
+				id: "1E8BE215D16627C6"
+				type: "item"
+				item: "aquaculture:sushi"
+			}]
+		}
+		{
+			x: -3.5d
+			y: 0.0d
+			dependencies: ["1DDAFA4F975A0848"]
+			id: "1B06B7CC88117E5F"
+			tasks: [{
+				id: "500466873335002A"
+				type: "item"
+				item: "aquaculture:turtle_soup"
+			}]
+		}
+		{
+			x: -3.5d
+			y: 1.0d
+			dependencies: ["1DDAFA4F975A0848"]
+			id: "049155E743E38BB0"
+			tasks: [{
+				id: "767F22A2DCBFB9FB"
+				type: "item"
+				item: "aquaculture:frog_legs_cooked"
+			}]
+		}
+		{
+			x: -2.5d
+			y: 1.5d
+			dependencies: ["1DDAFA4F975A0848"]
+			id: "4799F67E1F3F907D"
+			tasks: [{
+				id: "39476D21B6B14F78"
+				type: "item"
+				item: "aquaculture:fish_fillet_raw"
+			}]
+		}
+		{
+			x: 1.0d
+			y: 1.5d
+			dependencies: ["19E9AA13DD4D1E87"]
+			id: "5B695567065565B4"
+			tasks: [{
+				id: "345C08B12A98839C"
+				type: "item"
+				item: "aquaculture:box"
+			}]
+		}
+		{
+			x: -0.5d
+			y: 1.5d
+			dependencies: ["5B695567065565B4"]
+			id: "104DABEAD97A9658"
+			tasks: [{
+				id: "564557A19A7326D3"
+				type: "item"
+				item: "aquaculture:lockbox"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 2.5d
+			dependencies: ["5B695567065565B4"]
+			id: "75A39179731E135E"
+			tasks: [{
+				id: "32A12A06EEACE661"
+				type: "item"
+				item: "aquaculture:treasure_chest"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 2.5d
+			dependencies: ["5B695567065565B4"]
+			id: "6205AA7EA23DCCB9"
+			tasks: [{
+				id: "000AD2C3CF656BE7"
+				type: "item"
+				item: "aquaculture:message_in_a_bottle"
+			}]
+		}
+	]
+}

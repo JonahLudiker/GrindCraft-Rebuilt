@@ -1,0 +1,305 @@
+{
+	id: "0775485A96D451D4"
+	group: "449E1D920F97B1FF"
+	order_index: 0
+	filename: "stage_0"
+	title: "Stage 0"
+	icon: "minecraft:apple"
+	default_quest_shape: "square"
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "First tier firestarter"
+			x: -2.5d
+			y: -4.5d
+			subtitle: "Craft a Flint and Bronze"
+			dependencies: ["7B33A923ACF32AD4"]
+			id: "0402721F277E5461"
+			tasks: [{
+				id: "3C2BB0CB48DC81DE"
+				type: "item"
+				item: {
+					id: "tconstruct:flint_and_bronze"
+					Count: 1b
+					tag: {
+						tic_multipliers: { }
+						tic_stats: {
+							"tconstruct:durability": 100.0f
+						}
+						tic_broken: 0b
+						HideFlags: 3
+						tic_modifiers: [
+							{
+								name: "tconstruct:fiery"
+								level: 1s
+							}
+							{
+								name: "tconstruct:firestarter_hidden"
+								level: 1s
+							}
+						]
+						Damage: 0
+						tic_persistent_data: {
+							upgrades: 1
+						}
+					}
+				}
+				only_from_crafting: false
+			}]
+		}
+		{
+			title: "Worldly Arborist"
+			x: 4.440892098500626E-16d
+			y: -4.5d
+			subtitle: "A well traveled arborist is a happy arborist."
+			dependencies: ["7B33A923ACF32AD4"]
+			id: "17A4167FB9ECB06B"
+			tasks: [
+				{
+					id: "253AB5A1CDE01E2C"
+					type: "item"
+					item: "minecraft:oak_sapling"
+				}
+				{
+					id: "58627D1B67C8E9B5"
+					type: "item"
+					item: "minecraft:spruce_sapling"
+				}
+				{
+					id: "7E75EB09A100DB75"
+					type: "item"
+					item: "minecraft:birch_sapling"
+				}
+				{
+					id: "6F2E74CAD138409F"
+					type: "item"
+					item: "minecraft:jungle_sapling"
+				}
+				{
+					id: "21EB9E10E551A9DE"
+					type: "item"
+					item: "minecraft:acacia_sapling"
+				}
+				{
+					id: "04FCB7FCB8DE4D59"
+					type: "item"
+					item: "minecraft:dark_oak_sapling"
+				}
+				{
+					id: "66E981BCE4BD67A6"
+					type: "item"
+					item: "tconstruct:earth_slime_sapling"
+				}
+				{
+					id: "5E918351CEA23304"
+					type: "item"
+					item: "tconstruct:sky_slime_sapling"
+				}
+			]
+		}
+		{
+			x: 2.5d
+			y: -4.5d
+			subtitle: "Visit all the biomes the overworld has to offer."
+			dependencies: ["7B33A923ACF32AD4"]
+			id: "5745D64E6204FFE2"
+			tasks: [{
+				id: "7C3E58EED364E4F3"
+				type: "biome"
+				title: "Travel the world"
+				biome: "minecraft:plains"
+			}]
+		}
+		{
+			title: "Colorful trees"
+			x: -2.5d
+			y: -2.0d
+			dependencies: ["7B33A923ACF32AD4"]
+			id: "3866C4D11D693CA3"
+			tasks: [
+				{
+					id: "5F525754FF345024"
+					type: "item"
+					item: "quark:blue_blossom_sapling"
+				}
+				{
+					id: "75739C47DFA4DEDB"
+					type: "item"
+					item: "quark:lavender_blossom_sapling"
+				}
+				{
+					id: "4D6557CFBC45425E"
+					type: "item"
+					item: "quark:orange_blossom_sapling"
+				}
+				{
+					id: "2A3BB2BE398F32B1"
+					type: "item"
+					item: "quark:pink_blossom_sapling"
+				}
+				{
+					id: "49968FC1FC0991B9"
+					type: "item"
+					item: "quark:yellow_blossom_sapling"
+				}
+				{
+					id: "3998B6DAE7B9AA00"
+					type: "item"
+					item: "quark:red_blossom_sapling"
+				}
+			]
+		}
+		{
+			title: "Farm Hand"
+			x: 0.0d
+			y: -2.0d
+			dependencies: ["7B33A923ACF32AD4"]
+			id: "10E8A6E0DF986C89"
+			tasks: [
+				{
+					id: "7D51FFBBBD0A2166"
+					type: "item"
+					item: "minecraft:bread"
+					count: 64L
+				}
+				{
+					id: "6CABB60CDE8A1938"
+					type: "item"
+					item: "minecraft:apple"
+					count: 64L
+				}
+				{
+					id: "58E2DB96E1242A56"
+					type: "item"
+					item: "minecraft:melon_slice"
+					count: 64L
+				}
+				{
+					id: "7BF5571B7B2DE229"
+					type: "item"
+					item: "minecraft:carrot"
+					count: 64L
+				}
+				{
+					id: "18C219410D0CBF91"
+					type: "item"
+					item: "minecraft:potato"
+					count: 64L
+				}
+				{
+					id: "202F19CBF246E5C7"
+					type: "item"
+					item: "minecraft:cake"
+				}
+				{
+					id: "2C3A3D734E57B706"
+					type: "item"
+					item: "minecraft:pumpkin_pie"
+					count: 16L
+				}
+				{
+					id: "50AA4283BC886F81"
+					type: "item"
+					item: "minecraft:mushroom_stew"
+				}
+			]
+		}
+		{
+			title: "Weird Stuff"
+			x: 2.5d
+			y: -2.0d
+			dependencies: ["7B33A923ACF32AD4"]
+			id: "029916493762F34E"
+			tasks: [
+				{
+					id: "44FC0BFDFB85B319"
+					type: "item"
+					item: {
+						id: "minecraft:turtle_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "49BE66F0928D4A2D"
+					type: "item"
+					item: "buzzier_bees:bee_bottle"
+				}
+				{
+					id: "2797F86AE502BD1C"
+					type: "item"
+					item: "minecraft:rabbit_hide"
+				}
+			]
+		}
+		{
+			x: -2.5d
+			y: 0.5d
+			dependencies: ["7B33A923ACF32AD4"]
+			id: "61EAEDC453CC00E9"
+			tasks: [{
+				id: "18B0B56E1B58E0ED"
+				type: "kill"
+				title: "No power in the 'verse can stop me!"
+				entity: "minecraft:zombie"
+				value: 64L
+			}]
+		}
+		{
+			title: "Heart maker"
+			x: 2.5d
+			y: 0.5d
+			dependencies: ["7B33A923ACF32AD4"]
+			id: "13CB9378F183553F"
+			tasks: [{
+				id: "508B66797939B51F"
+				type: "stat"
+				icon: "minecraft:wheat"
+				stat: "minecraft:animals_bred"
+				value: 64
+			}]
+		}
+		{
+			title: "Ocean Appreciator"
+			x: 0.0d
+			y: 0.5d
+			subtitle: "Carp-e diem"
+			dependencies: ["7B33A923ACF32AD4"]
+			id: "6DAFD8CA58C596B6"
+			tasks: [
+				{
+					id: "749B5C6BE4FCAD54"
+					type: "item"
+					item: "aquaculture:carp"
+				}
+				{
+					id: "1DF6366F1A8B3489"
+					type: "item"
+					item: "aquaculture:catfish"
+				}
+				{
+					id: "28AE25F39D4E9C02"
+					type: "item"
+					item: "aquaculture:gar"
+				}
+				{
+					id: "7B27DE0BE0C979B4"
+					type: "item"
+					item: "aquaculture:rainbow_trout"
+				}
+				{
+					id: "78EBFE62F3903334"
+					type: "item"
+					item: "aquaculture:perch"
+				}
+				{
+					id: "3EB7CBC3FE8A15E8"
+					type: "item"
+					item: "aquaculture:smallmouth_bass"
+				}
+			]
+		}
+	]
+}
